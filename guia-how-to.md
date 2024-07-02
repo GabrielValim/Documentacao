@@ -39,10 +39,11 @@ Antes de iniciar, tenha certeza de que você tem:
 
 2.3 - Ao final, deve aparecer esta página de entrada na sua conta: 
 
-![Captura de Tela 2023-11-26 às 18 35 41]([https://github.com/GabrielValim/Documentacao/blob/main/guia-how-to.md]))
+![Captura de Tela 2023-11-26 às 18 35 41](https://github.com/marimoreiratw/projeto-alura/assets/98783099/e959ab94-686e-44f1-9c5b-0d1d86b6650d)
+
 
 
 
 
 # Veja também 
-* (Modelo de tutorial](https://github.com/marimoreiratw/projeto-alura/blob/main/tutorial.md)
+* (Modelo de tutorial](https://github.com/marimoreiratw/projeto-alura/blob/main/tutorial.md](https://github.com/GabrielValim/Documentacao/blob/main/guia-how-to.md)
