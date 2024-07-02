@@ -27,7 +27,6 @@ Antes de iniciar, tenha certeza de que você tem:
 
 1.2 - Vai abrir uma página com os campos que você precisa preencher: Nome completo, e-mail e senha
 
-![Captura de Tela 2023-11-26 às 18 31 55](https://github.com/marimoreiratw/projeto-alura/assets/98783099/2eb53143-e2e6-4c22-93e3-dd1601003404)
 
 
 
