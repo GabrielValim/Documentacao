@@ -46,4 +46,4 @@ Antes de iniciar, tenha certeza de que você tem:
 
 
 # Veja também 
-* (Modelo de tutorial][https://github.com/GabrielValim/Documentacao/blob/main/guia-how-to.md]
+* (Modelo de tutorial)(https://github.com/GabrielValim/Documentacao/blob/main/guia-how-to.md)
