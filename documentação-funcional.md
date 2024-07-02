@@ -5,22 +5,22 @@ A documentação funcional é o tipo de documento que apresenta um produto, func
 
 ## Exemplo de documentação 
 
-# TAxbank
+# TAXbank
 
-A TAxbank é um banco digital que foi criado com objetivo de simplificar a vida financeira dos brasileiros. 
+A TAXbank é um banco digital que foi criado com objetivo de simplificar a vida financeira dos brasileiros. 
 
 A seguir, você encontra mais informações sobre: 
 
 * Serviços disponíveis
-* Para quem é a TAxbank?
+* Para quem é a TAXbank?
 * Como criar sua conta  
 
 
 ### Serviços disponíveis
 
-Todos os serviços da TAxbank foram criados para eliminar burocracias e garantir que você comece no mesmo dia a gerir suas finanças. Isso significa que boa parte dos serviços é gratuito, como a criação de cartão de crédito ou débito e saques com limite de 4 vezes ao mês. Além disso, você pode participar do programa de pontos ao acumular saldo em cada compra realizada.
+Todos os serviços da TAXbank foram criados para eliminar burocracias e garantir que você comece no mesmo dia a gerir suas finanças. Isso significa que boa parte dos serviços é gratuito, como a criação de cartão de crédito ou débito e saques com limite de 4 vezes ao mês. Além disso, você pode participar do programa de pontos ao acumular saldo em cada compra realizada.
 
-### Para quem é a TAxbank? 
+### Para quem é a TAXbank? 
 
 Para todas as pessoas que buscam liberdade e praticidade na hora de cuidar de sua vida financeira. Se você tem mais de 18 anos, pode criar sua conta acessando o nosso site e seguindo os passos indicados. 
 
