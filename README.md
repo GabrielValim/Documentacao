@@ -11,6 +11,6 @@ Formatos de documentação técnica:
 3. [Guia how-to (How-to guide)](https://github.com/GabrielValim/Documentacao/blob/main/guia-how-to.md)
 5. [Troubleshooting](https://github.com/GabrielValim/Documentacao/blob/main/troubleshooting.md)
 6. [Documentação de API](https://github.com/GabrielValim/Documentacao/blob/main/documenta%C3%A7%C3%A3o-api.md)
-7. [Release Notes](https://github.com/marimoreiratw/projeto-alura/blob/main/release-notes.md)
+7. [Release Notes](https://github.com/GabrielValim/Documentacao/blob/main/release-notes.md)
 8. [Guia de Início Rápido (Quick Start Guide)](https://github.com/marimoreiratw/projeto-alura/blob/main/guia-in%C3%ADcio-r%C3%A1pido.md)
 9. [Perguntas frequentes (FAQ)](https://github.com/marimoreiratw/projeto-alura/blob/main/perguntas-frequentes-faq.md)
